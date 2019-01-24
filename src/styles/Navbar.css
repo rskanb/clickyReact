@@ -8,25 +8,28 @@
   color: white;
   font-size: 2rem;
   text-decoration: none;
-  margin-right: 280px;
-  line-height: 3;
+  margin-right: 20px;
+  /* line-height: 3; */
   position: relative;
   float: left;
+  text-align: center;
 }
 
 .navinfo {
   color: white;
   font-size: 2rem;
   text-decoration: none;
-  margin-right: 280px;
-  line-height: 3;
+  margin-right: 20px;
+  /* line-height: 3; */
   float: left;
+  text-align: center;
 }
 
 .navscore {
   color: white;
   font-size: 2rem;
   text-decoration: none;
-  line-height: 3;
+  /* line-height: 3; */
   float: right;
+  text-align: center;
 }
